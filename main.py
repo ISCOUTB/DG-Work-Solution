@@ -195,7 +195,7 @@ def api_password_recovery():
                         <h2 style="color: #007bff;">Work Solution</h2>
                     </div>
                     <p>Estimado <strong>{user[0][1]}</strong>,</p>
-                    <p>Has solicitado la recuperación de tu contraseña. Si no has sido tú, por favor ignora este correo.</p>
+                    <p>Has solicitado la recuperación de tu contraseña. Si no has sido tu, por favor ignora este correo.</p>
                     <p>Tu contraseña es: <strong>{password_plain}</strong></p>
                     <p>Si tienes alguna pregunta, no dudes en contactarnos.</p>
                     <p>Saludos,<br>El equipo de <strong>Work Solution</strong></p>
